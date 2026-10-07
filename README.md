@@ -236,3 +236,29 @@
 といった点を意識しました。
 
 実際の業務経験をもとに要件を考えたことが、このポートフォリオの一番の特徴です。
+
+## 画面
+
+### 在庫管理
+![在庫管理画面](images/index_html.png)
+
+### 棚卸
+![棚卸画面](images/audit_html.png)
+
+### 監査ログ
+![監査ログ画面](images/alerts_html.png)
+
+### 販売
+![販売画面](images/checkout_html.png)
+
+### 買取
+![買取画面](images/buybacl_html.png)
+
+### 在庫入出庫
+![在庫入出庫画面](images/stock_html.png)
+
+### 新規カード登録
+![新規カード登録画面](images/register_html.png)
+
+### 設定
+![設定画面](images/config_html.png)
